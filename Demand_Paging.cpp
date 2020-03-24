@@ -9,7 +9,7 @@ printf("\nEnter Total Number of Pages:\t");
        for(m = 0; m < pages; m++)
        {
 printf("Value No. [%d]:\t", m + 1);
-       scanf("%d", &reference_string[i]);
+       scanf("%d", &reference_string[m]);
        }
      printf("\nEnter Total Number of Frames:\t");
      {
